@@ -35,7 +35,7 @@ public BaseTest(){
 
 	public static void initializeWebDriver() throws Exception{
 		String browserName =  System.getProperty("browser") != null ? System.getProperty("browser") : prop.getProperty("browser");
-		if(browserName.equals("Chrome"))
+		if(browserName.equals("chrome"))
 		{
 			ChromeOptions opt = new ChromeOptions();
 			opt.addArguments("--remote-allow-origins=*",

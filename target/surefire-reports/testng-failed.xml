@@ -8,6 +8,7 @@
     <classes>
       <class name="vidhyaPrakashAutomation.Amazon.OrderSearch">
         <methods>
+          <include name="tearDown"/>
           <include name="orderSearch"/>
         </methods>
       </class> <!-- vidhyaPrakashAutomation.Amazon.OrderSearch -->
