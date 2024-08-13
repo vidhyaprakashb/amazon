@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T12:54:42 IST" name="Default suite" finished-at="2024-08-13T12:54:52 IST" duration-ms="9879">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T12:54:42 IST" name="Default test" finished-at="2024-08-13T12:54:52 IST" duration-ms="9879">
+      <class name="vidhyaPrakashAutomation.Amazon.OrderSearch">
+        <test-method signature="orderSearch()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@4efac082]" started-at="2024-08-13T12:54:42 IST" name="orderSearch" finished-at="2024-08-13T12:54:52 IST" duration-ms="9780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderSearch -->
+        <test-method is-config="true" signature="tearDowb()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@4efac082]" started-at="2024-08-13T12:54:52 IST" name="tearDowb" finished-at="2024-08-13T12:54:52 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowb -->
+      </class> <!-- vidhyaPrakashAutomation.Amazon.OrderSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
