@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-13T14:28:35 IST" name="Search product" finished-at="2024-08-13T14:28:47 IST" duration-ms="11718">
+  <suite started-at="2024-08-13T15:07:04 IST" name="Search product" finished-at="2024-08-13T15:07:16 IST" duration-ms="11776">
     <groups>
     </groups>
-    <test started-at="2024-08-13T14:28:35 IST" name="Search item" finished-at="2024-08-13T14:28:47 IST" duration-ms="11718">
+    <test started-at="2024-08-13T15:07:04 IST" name="Search item" finished-at="2024-08-13T15:07:16 IST" duration-ms="11776">
       <class name="vidhyaPrakashAutomation.Amazon.OrderSearch">
-        <test-method signature="orderSearch()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@72bc6553]" started-at="2024-08-13T14:28:35 IST" name="orderSearch" finished-at="2024-08-13T14:28:47 IST" duration-ms="11571" status="PASS">
+        <test-method signature="orderSearch()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@72bc6553]" started-at="2024-08-13T15:07:04 IST" name="orderSearch" finished-at="2024-08-13T15:07:15 IST" duration-ms="11604" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderSearch -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@72bc6553]" started-at="2024-08-13T14:28:47 IST" name="tearDown" finished-at="2024-08-13T14:28:47 IST" duration-ms="98" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:vidhyaPrakashAutomation.Amazon.OrderSearch@72bc6553]" started-at="2024-08-13T15:07:15 IST" name="tearDown" finished-at="2024-08-13T15:07:16 IST" duration-ms="114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
