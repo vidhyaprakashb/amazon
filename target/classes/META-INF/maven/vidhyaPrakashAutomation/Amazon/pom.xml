@@ -75,7 +75,7 @@
 							<version>3.3.1</version>
 							<configuration>
 								<suiteXmlFiles>
-									<suiteXmlFile>testSuites/testSearch.xml</suiteXmlFile>
+									<suiteXmlFile>testSuits/testSearch.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>

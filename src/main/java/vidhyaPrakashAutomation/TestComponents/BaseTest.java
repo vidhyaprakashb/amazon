@@ -34,8 +34,7 @@ public BaseTest(){
 
 
 	public static void initializeWebDriver() throws Exception{
-		
-		String browserName = prop.getProperty("browser");
+		String browserName =  System.getProperty("browser") != null ? System.getProperty("browser") : prop.getProperty("browser");
 		if(browserName.equals("Chrome"))
 		{
 			ChromeOptions opt = new ChromeOptions();
@@ -59,7 +58,7 @@ public BaseTest(){
 	}
 	
 	@AfterMethod
-	public void tearDowb() {
+	public void tearDown() {
 		driver.close();
 	}
 	
